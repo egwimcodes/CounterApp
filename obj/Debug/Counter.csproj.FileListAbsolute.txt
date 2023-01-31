@@ -1,0 +1,10 @@
+C:\Users\odikk\source\repos\Perpustakaan sederhana\obj\Debug\Counter.csprojAssemblyReference.cache
+C:\Users\odikk\source\repos\Perpustakaan sederhana\obj\Debug\Perpustakaan_sederhana.Form1.resources
+C:\Users\odikk\source\repos\Perpustakaan sederhana\obj\Debug\Perpustakaan_sederhana.Properties.Resources.resources
+C:\Users\odikk\source\repos\Perpustakaan sederhana\obj\Debug\Counter.csproj.GenerateResource.cache
+C:\Users\odikk\source\repos\Perpustakaan sederhana\obj\Debug\Counter.csproj.CoreCompileInputs.cache
+C:\Users\odikk\source\repos\Perpustakaan sederhana\bin\Debug\Perpustakaan sederhana.exe.config
+C:\Users\odikk\source\repos\Perpustakaan sederhana\bin\Debug\Perpustakaan sederhana.exe
+C:\Users\odikk\source\repos\Perpustakaan sederhana\bin\Debug\Perpustakaan sederhana.pdb
+C:\Users\odikk\source\repos\Perpustakaan sederhana\obj\Debug\Perpustakaan sederhana.exe
+C:\Users\odikk\source\repos\Perpustakaan sederhana\obj\Debug\Perpustakaan sederhana.pdb
